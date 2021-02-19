@@ -11,3 +11,7 @@
 使用`git clone` , `git push`方案
 ### Method-2
 参考知乎链接 - [git 怎么在仓库里面上传一个文件夹到github?](https://www.zhihu.com/question/53015611)
+
+
+## 交流群
+![群二维码](https://i.loli.net/2021/02/19/uMobPWDngtVTsNL.jpg)
